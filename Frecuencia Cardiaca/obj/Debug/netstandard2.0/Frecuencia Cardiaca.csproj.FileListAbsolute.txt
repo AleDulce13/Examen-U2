@@ -1,0 +1,15 @@
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\bin\Debug\netstandard2.0\Frecuencia Cardiaca.deps.json
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\bin\Debug\netstandard2.0\Frecuencia Cardiaca.dll
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\bin\Debug\netstandard2.0\ref\Frecuencia Cardiaca.dll
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\bin\Debug\netstandard2.0\Frecuencia Cardiaca.pdb
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\Frecuencia Cardiaca.csproj.AssemblyReference.cache
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\Frecuencia Cardiaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\Frecuencia Cardiaca.AssemblyInfoInputs.cache
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\Frecuencia Cardiaca.AssemblyInfo.cs
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\Frecuencia Cardiaca.csproj.CoreCompileInputs.cache
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\Frecuencia Cardiaca.dll
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\refint\Frecuencia Cardiaca.dll
+C:\Users\cd07\Desktop\ALSD\Frecuencia Cardiaca\Frecuencia Cardiaca\obj\Debug\netstandard2.0\Frecuencia Cardiaca.pdb

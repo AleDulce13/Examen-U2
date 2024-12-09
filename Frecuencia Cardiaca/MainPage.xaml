@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Frecuencia_Cardiaca.MainPage">
+
+    <StackLayout Padding="20" BackgroundColor="Gray">
+        <Label Text="Calcular Frecuencia Cardiaca"
+                FontSize="Large"
+                HorizontalOptions="Center"
+                Margin="0,20,0,20" TextColor="Black" />
+
+        <Entry Placeholder="Latidos"
+                Keyboard="Numeric"
+                Text="{Binding Latidos}" TextColor="Black"/>
+
+        <Button Text="Multiplicar"
+                Command="{Binding CalcularCommand}" CornerRadius="30" BackgroundColor="White"/>
+
+        <Label Text="Resultado" HorizontalOptions="Center"
+                FontAttributes="Bold"
+                Margin="0,20,0,0"  TextColor="Black"/>
+        <Label Text="{Binding Frecuencia}" HorizontalOptions="Center"  TextColor="Black"/>
+
+        <Label Text="Frecuencia" HorizontalOptions="Center"
+                FontAttributes="Bold"
+                Margin="0,20,0,0" TextColor="Black"/>
+        <Label Text="{Binding Estado}" HorizontalOptions="Center" TextColor="Black"/>
+    </StackLayout>
+
+</ContentPage>
