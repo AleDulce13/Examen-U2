@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Frecuencia Cardiaca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e59c2372d82eed4b4345dbdb2daeb178a724326")]
 [assembly: System.Reflection.AssemblyProductAttribute("Frecuencia Cardiaca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Frecuencia Cardiaca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
